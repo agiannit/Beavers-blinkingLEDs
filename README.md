@@ -14,3 +14,6 @@ Qty 1 Fritzing diagram
 The Digispark ATTINY85 is a small microcontroller that was pre-programed with code to turn all the LEDs on one by one, and then in reverse, turn them off.
 
 Code is included, along with the Fritzing sketch and JPG/PNG image for display/printing from computers that do not have Fritzing installed.
+
+Download or clone package.
+Must download and install Arduino IDE to use the included waxon_waxoff.ino file that must be uploaded to the Digispark ATTINY85 microcontroller.
