@@ -1,8 +1,6 @@
 void setup()
 {
-  //Set Pins 0 and 1 as outputs.
-  //Some Digisparks have a built-in LED on pin 0, while some have it on
-  //pin 1. This way, we can all Digisparks.
+  //Set Pins 0, 1, 2, 3, and 4 as outputs.	
   pinMode(0, OUTPUT);
   pinMode(1, OUTPUT);
   pinMode(2, OUTPUT);
